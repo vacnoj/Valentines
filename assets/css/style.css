@@ -1,0 +1,36 @@
+body {
+   background: pink;
+}
+
+.center {
+   text-align: center;
+}
+
+.pink {
+   background: pink;
+   color: white;
+}
+nav {
+   font-size: 3em;
+   margin-bottom: 20px;
+}
+#message {
+   font-size: 2em;
+}
+
+* {
+   color: white;
+}
+
+ol {
+   padding: 0px;
+}
+
+.card-title {
+   border-bottom: pink solid;
+}
+
+p {
+   font-size: 20px;
+   margin: 0;
+}
