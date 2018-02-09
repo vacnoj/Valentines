@@ -15,6 +15,7 @@ $(document).ready(function() {
    });
 
    $('#no').click(function() {
-      $('body').hide();
+      $('body').empty();
+      $('body').html('<div class="fine">Fine...</div>');
    });
 });
