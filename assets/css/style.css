@@ -29,8 +29,8 @@ ol {
 
 .card-title {
    border-bottom: pink solid;
-   font-size: 2em;
-   font-weight: normal;
+   font-size: 2em !important;
+   font-weight: normal !important;
 }
 
 p {
