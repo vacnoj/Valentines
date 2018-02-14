@@ -1,6 +1,7 @@
 $(document).ready(function() {
    $('#message2').hide();
    $('#poem').hide();
+   $('#jon').hide();
    var valentine;
    var valentine2;
    var clickCount = 0;
@@ -13,6 +14,7 @@ $(document).ready(function() {
          $('#answers').hide();
          $('#message2').show();
          valentine2 = true;
+         $('#jon').show();
       }
       valentine = true;
    });
